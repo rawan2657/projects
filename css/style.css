@@ -528,7 +528,7 @@ background: -webkit-linear-gradient(bottom,rgb(0, 0, 0),rgba(50, 50, 50, 0.4),rg
     }.section3{
     height: 100vh;
     margin-bottom: 50px;
-      margin-top: 40px;
+     margin-top: 40px;
 }
 .section3 ul{
         display: flex;
@@ -924,7 +924,7 @@ height: 100%;
       font-size: 18px;
       color: #1c1c1c;
       font-weight: bold;
-   
+    font-size: 19px;
 }
 .section6-div1-content a:hover{
       color: #f8c828;
