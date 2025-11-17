@@ -385,7 +385,10 @@ transform: scale(1,1);
      font-size: 17px;
 }.links a{ color: #f8c828;
   font-weight: bold;
-}.section-icons i:hover {
+}.links a:hover{
+  font-size: 18px;
+}
+.section-icons i:hover {
     color: #ff7300;
 }.section1{
     width: 100%;
@@ -1120,3 +1123,4 @@ color: #5c490d;
   text-decoration: none;
 
 }
+
